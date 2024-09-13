@@ -1,0 +1,4 @@
+openpyxl
+nltk
+beautifulsoup4
+pyphen
